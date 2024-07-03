@@ -30,7 +30,7 @@
 }
 
 textarea{
-    width: 600px;
+    width: 70vw;
     height: 250px;
     background: #403d84;
     color: #fff;
@@ -49,7 +49,7 @@ textarea::placeholder{
 }
 
 .row{
-    width: 600px;
+    width: 100%;
     display: flex;
     align-items: center;
     gap: 20px;
