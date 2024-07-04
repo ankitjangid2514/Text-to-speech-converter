@@ -23,6 +23,7 @@
     font-weight: 500;
     margin-top: -50px;
     margin-bottom: 50px;
+    text-align:center;
 }
 
 .hero h1 span{
@@ -54,6 +55,7 @@ textarea::placeholder{
     flex-wrap:wrap;
     align-items: center;
     gap: 20px;
+    padding:0 20px;
 }
 
 button{
